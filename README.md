@@ -30,4 +30,4 @@ Execute o código em um ambiente Python 3 com as bibliotecas Pandas, NumPy e Sea
 
 Autor
 
-rayan noyma
+rayan c.
